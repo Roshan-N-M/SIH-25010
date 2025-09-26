@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:24/09/2025
-## Register Number:25017545
-## Name: RAM KUMAR S
+# Date:26/09/2025
+## Register Number:25017238
+## Name: ROSHAN N M
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
